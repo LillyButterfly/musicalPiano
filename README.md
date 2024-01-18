@@ -6,6 +6,9 @@
 
 Magic Piano is a virtual piano web application where users can play musical tunes using their computer keyboard. It provides an interactive and enjoyable experience for music enthusiasts.
 
+<img width="958" alt="aasss" src="https://github.com/LillyButterfly/musicalPiano/assets/88951197/8bffa6be-3274-4b7e-8f1d-1b2af9e04a93">
+
+
 ## Features
 
 - Play piano tunes using computer keyboard keys.
